@@ -1,0 +1,9 @@
+2016-02-08 21:32:53,897 INFO supervisord started with pid 834
+2016-02-08 21:32:54,899 INFO spawned: 'novnc' with pid 837
+2016-02-08 21:32:54,903 INFO spawned: 'xvfb' with pid 838
+2016-02-08 21:32:54,907 INFO spawned: 'x11vnc' with pid 839
+2016-02-08 21:32:54,909 INFO spawned: 'fluxbox' with pid 840
+2016-02-08 21:32:55,990 INFO success: novnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-02-08 21:32:55,990 INFO success: xvfb entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-02-08 21:32:55,990 INFO success: x11vnc entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2016-02-08 21:32:55,990 INFO success: fluxbox entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
