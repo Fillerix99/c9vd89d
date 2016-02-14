@@ -1,4 +1,5 @@
 #!/bin/bash
+export DISPLAY=:99
 cd /home/ubuntu/workspace
 npm install prompt
 npm install robotjs
