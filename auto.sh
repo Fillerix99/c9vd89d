@@ -1,4 +1,7 @@
 #!/bin/bash
+cd /home/ubuntu/workspace
+npm install prompt
+npm install robotjs
 xmacroplay ":99" < firefoxstart.txt
 node websyndic.js
 xmacroplay ":99" < firefoxstartwebs.txt
