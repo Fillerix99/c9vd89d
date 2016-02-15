@@ -26,7 +26,7 @@ KeyStrPress t
 KeyStrRelease t
 KeyStrPress Return
 KeyStrRelease Return
-Delay 4
+Delay 7
 MotionNotify 711 445
 ButtonPress 1
 ButtonRelease 1
