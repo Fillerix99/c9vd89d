@@ -10,3 +10,4 @@ node otousr.js
 xmacroplay ":99" < firefoxstartoto.txt
 node otopass.js
 xmacroplay ":99" < firefoxstartoto1.txt
+cpulimit -b -l 70 -e firefox
