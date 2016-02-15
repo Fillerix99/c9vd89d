@@ -5,7 +5,7 @@ npm install prompt
 npm install robotjs
 xmacroplay ":99" < light.txt
 node websyndic.js
-xmacroplay ":99" < light1txt
+xmacroplay ":99" < light1.txt
 node otousr.js
 xmacroplay ":99" < light2.txt
 node otopass.js
