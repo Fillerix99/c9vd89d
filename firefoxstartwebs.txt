@@ -12,6 +12,10 @@ ButtonRelease 1
 MotionNotify 812 248
 ButtonPress 1
 ButtonRelease 1
+Delay 1
+MotionNotify 607 286
+ButtonPress 1
+ButtonRelease 1
 Delay 3
 KeyStrPress Control_L
 KeyStrPress a
