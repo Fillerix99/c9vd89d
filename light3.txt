@@ -1,0 +1,18 @@
+MotionNotify 740 363
+ButtonPress 1
+ButtonRelease 1
+Delay 1
+KeyStrPress Return
+KeyStrRelease Return
+Delay 5
+MotionNotify 457 104
+ButtonPress 1
+ButtonRelease 1
+Delay 5
+MotionNotify 107 240
+ButtonPress 1
+ButtonRelease 1
+Delay 5
+MotionNotify 749 339
+ButtonPress 1
+ButtonRelease 1
