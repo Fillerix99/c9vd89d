@@ -9,6 +9,17 @@ Delay 3
 MotionNotify 774 250
 ButtonPress 1
 ButtonRelease 1
+MotionNotify 812 248
+ButtonPress 1
+ButtonRelease 1
+Delay 3
+KeyStrPress Control_L
+KeyStrPress a
+KeyStrRelease a
+KeyStrRelease Control_L
+KeyStrPress BackSpace
+KeyStrRelease BackSpace
+Delay 3
 KeyStrPress o
 KeyStrRelease o
 KeyStrPress t
