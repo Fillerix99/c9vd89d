@@ -40,3 +40,13 @@ ButtonPress 1
 ButtonRelease 1
 ButtonPress 1
 ButtonRelease 1
+Delay 2
+MotionNotify 573 284
+ButtonPress 1
+ButtonRelease 1
+KeyStrPress Control_L
+KeyStrPress a
+KeyStrRelease a
+KeyStrRelease Control_L
+KeyStrPress BackSpace
+KeyStrRelease BackSpace
