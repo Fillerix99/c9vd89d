@@ -1,11 +1,12 @@
-MotionNotify 722 302
+Delay 1
+MotionNotify 812 261
 ButtonPress 1
 ButtonRelease 1
-Delay 3
-MotionNotify 833 295
+Delay 1
+MotionNotify 822 267
 ButtonPress 1
 ButtonRelease 1
-Delay 3
+Delay 1
 KeyStrPress Control_L
 KeyStrPress Alt_L
 KeyStrRelease Alt_L
@@ -18,7 +19,6 @@ KeyStrPress Control_L
 KeyStrRelease 2
 KeyStrRelease Control_L
 KeyStrRelease Alt_L
-MotionNotify 829 289
 KeyStrPress g
 KeyStrRelease g
 KeyStrPress m
@@ -37,7 +37,11 @@ KeyStrPress o
 KeyStrPress m
 KeyStrRelease o
 KeyStrRelease m
-Delay 3
-MotionNotify 735 353
+Delay 2
+MotionNotify 740 336
+ButtonPress 1
+ButtonRelease 1
+ButtonPress 1
+ButtonRelease 1
 ButtonPress 1
 ButtonRelease 1
