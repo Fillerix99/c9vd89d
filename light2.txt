@@ -1,0 +1,40 @@
+MotionNotify 722 302
+ButtonPress 1
+ButtonRelease 1
+MotionNotify 833 295
+ButtonPress 1
+ButtonRelease 1
+KeyStrPress Control_L
+KeyStrPress Alt_L
+KeyStrRelease Alt_L
+KeyStrRelease Control_L
+KeyStrPress Shift_L
+KeyStrPress 2
+KeyStrRelease Shift_L
+KeyStrPress Alt_L
+KeyStrPress Control_L
+KeyStrRelease 2
+KeyStrRelease Control_L
+KeyStrRelease Alt_L
+MotionNotify 829 289
+KeyStrPress g
+KeyStrRelease g
+KeyStrPress m
+KeyStrRelease m
+KeyStrPress a
+KeyStrRelease a
+KeyStrPress i
+KeyStrPress l
+KeyStrRelease i
+KeyStrRelease l
+KeyStrPress period
+KeyStrRelease period
+KeyStrPress c
+KeyStrRelease c
+KeyStrPress o
+KeyStrPress m
+KeyStrRelease o
+KeyStrRelease m
+MotionNotify 735 353
+ButtonPress 1
+ButtonRelease 1
