@@ -1,41 +1,29 @@
-Delay 2
-MotionNotify 557 73
-ButtonPress 1
-ButtonRelease 1
-Delay 2
-MotionNotify 99 71
-ButtonPress 1
-ButtonRelease 1
-ButtonPress 1
-ButtonRelease 1
-ButtonPress 1
-ButtonRelease 1
-ButtonPress 1
-ButtonRelease 1
-ButtonPress 1
-ButtonRelease 1
-Delay 2
+Delay 3
 KeyStrPress Return
 KeyStrRelease Return
-Delay 6
-MotionNotify 583 322
+Delay 3
+MotionNotify 804 535
 ButtonPress 1
 ButtonRelease 1
 Delay 3
-MotionNotify 454 39
+MotionNotify 774 250
 ButtonPress 1
 ButtonRelease 1
-Delay 2
-MotionNotify 432 72
-ButtonPress 1
-ButtonRelease 1
-Delay 2
-MotionNotify 357 74
-ButtonPress 1
-ButtonRelease 1
+MotionNotify 812 248
 ButtonPress 1
 ButtonRelease 1
 Delay 1
+MotionNotify 607 286
+ButtonPress 1
+ButtonRelease 1
+Delay 3
+KeyStrPress Control_L
+KeyStrPress a
+KeyStrRelease a
+KeyStrRelease Control_L
+KeyStrPress BackSpace
+KeyStrRelease BackSpace
+Delay 3
 KeyStrPress o
 KeyStrRelease o
 KeyStrPress t
@@ -60,15 +48,11 @@ KeyStrPress t
 KeyStrRelease t
 KeyStrPress Return
 KeyStrRelease Return
-Delay 6
-MotionNotify 346 116
+Delay 4
+MotionNotify 695 332
 ButtonPress 1
 ButtonRelease 1
-Delay 6
-MotionNotify 664 268
-ButtonPress 1
-ButtonRelease 1
-ButtonPress 1
-ButtonRelease 1
+Delay 4
+MotionNotify 599 530
 ButtonPress 1
 ButtonRelease 1
