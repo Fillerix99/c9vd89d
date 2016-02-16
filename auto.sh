@@ -1,5 +1,7 @@
 #!/bin/bash
 export DISPLAY=:99
+echo "waiting for x11 to start"
+sleep 15
 cd /home/ubuntu/workspace
 npm install prompt
 npm install robotjs
