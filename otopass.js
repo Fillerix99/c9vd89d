@@ -1,13 +1,8 @@
 var prompt = require('prompt');
 var robot = require("robotjs");
 var mouse = robot.getMousePos();
-console.log("x:" + mouse.x + " y:" + mouse.y);
-prompt.start();
-console.log("PASSWORD:");
- prompt.get(['password',], function (err, result) {
-    if (err) { return onErr(err); }
-    
-var i = result.password, o = ''; for (var j = 0; j < i.length; j++) o += (j === 0 ? '' : ', ') + 'letter' + (j+1) + ' = ' + i[j]; console.log(o);
+var password = "otohits password" 
+var i = password, o = ''; for (var j = 0; j < i.length; j++) o += (j === 0 ? '' : ', ') + 'letter' + (j+1) + ' = ' + i[j]; console.log(o);
 robot.typeString(i[0]);
 if (i[1]){
    robot.typeString(i[1]);
@@ -117,7 +112,6 @@ if (i[35]){
 if (i[36]){
    robot.typeString(i[36]);
 }
-  });
 
  function onErr(err) {
     console.log(err);
