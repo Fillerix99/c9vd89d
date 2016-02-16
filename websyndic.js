@@ -1,13 +1,8 @@
 var prompt = require('prompt');
 var robot = require("robotjs");
 var mouse = robot.getMousePos();
-console.log("x:" + mouse.x + " y:" + mouse.y);
-prompt.start();
-console.log("Link to Websyndic:");
- prompt.get(['link'], function (err, result) {
-    if (err) { return onErr(err); }
-    
-var i = result.link, o = ''; for (var j = 0; j < i.length; j++) o += (j === 0 ? '' : ', ') + 'letter' + (j+1) + ' = ' + i[j]; console.log(o);
+var link = "bit.ly/1Phzk7c"   
+var i = link, o = ''; for (var j = 0; j < i.length; j++) o += (j === 0 ? '' : ', ') + 'letter' + (j+1) + ' = ' + i[j]; console.log(o);
 
 robot.typeString(i[0]);
 if (i[1]){
@@ -77,7 +72,6 @@ if (i[22]){
    robot.typeString(i[22]);
 }
 
-  });
 
  function onErr(err) {
     console.log(err);
