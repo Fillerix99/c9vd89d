@@ -18,4 +18,5 @@ killall -9 sleep
     Xvfb :1 -screen 1 1024x768x16 -nolisten tcp & disown
     echo "Starting TE viewer..."
 export DISPLAY=:1.1
+sleep 5
  sudo firefox -Profile "/home/ubuntu/workspace/firefox_data" about:blank http://bit.ly/1Phzk7c http://bit.ly/1Phzk7c http://otohits.net/account/login & disown
